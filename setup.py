@@ -6,7 +6,7 @@ __version__ = "0.0.1"
 REPO_NAME = "maria_Renderer_pypi_package"   
 AUTHOR_USER_NAME="maria2021831011" 
 AUTHOR_EMAIL="ritukhan534@gmail.com"
-SRC_REPO="render"
+SRC_REPO="mari2111render"
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,

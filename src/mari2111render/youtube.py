@@ -1,5 +1,6 @@
-from render.exceptions import InvalidURLException
-from render.logger import logger
+from mari2111render.logger import logger
+from mari2111render.exceptions import InvalidURLException
+
 import re 
 from IPython.display import HTML, display
 

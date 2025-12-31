@@ -13,5 +13,5 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)
     ],
 )
-logger=logging.getLogger("render")
+logger=logging.getLogger("mari2111render")
 
